@@ -54,6 +54,10 @@ The output file is saved as `input_geprueft.pdf` in the same directory.
 | `--min-gap` | `1.0` | Minimum gap between contours in mm |
 | `--min-font` | `6.0` | Minimum font size in pt |
 
+### Preview
+
+![Gap check annotations in Adobe Acrobat](screenshot.jpg)
+
 ### Sample files
 
 | File | Description |
@@ -112,6 +116,10 @@ Die Ausgabedatei wird als `eingabe_geprueft.pdf` im selben Ordner gespeichert.
 | `input` | – | Pfad zur Eingabe-PDF |
 | `--min-gap` | `1.0` | Mindestabstand zwischen Konturen in mm |
 | `--min-font` | `6.0` | Mindest-Schriftgröße in pt |
+
+### Vorschau
+
+![Steg-Hinweise in Adobe Acrobat](screenshot.jpg)
 
 ### Beispieldateien
 
